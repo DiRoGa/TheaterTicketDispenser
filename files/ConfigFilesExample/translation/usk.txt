@@ -1,0 +1,28 @@
+Bienvenido al teatro Alfil:Ongi etorri Alfil antzokira
+Selecciona el idioma:Aukeratu hizkuntza
+Selecciona la fecha de representacion:Aukeratu antzezpen-data
+Selecciona la zona:Aukeratu gunea
+Selecciona tus asientos:Aukeratu zure eserlekuak
+Asiento seleccionado:Aukeratutako eserlekua
+Asiento ocupado, seleccione otro:Okupatutako eserlekua, aukeratu beste bat
+Realizando pago:Ordainketa eginez
+Introduzca su tarjeta para continuar:Sartu zure txartela jarraitzeko
+Gracias por su compra:Eskerrik asko zure erosketagatik
+Lo sentimos, no se pudo realizar la operacion:Sentitzen dugu, ezin izan zen ebakuntzarik egin
+Se ha guardado la tarjeta al no ser extraida:Txartela gorde egin da, atera ez delako
+Cancelar:Ezeztatu
+Aceptar:Onartzea
+
+
+
+
+
+
+
+
+
+
+
+
+
+

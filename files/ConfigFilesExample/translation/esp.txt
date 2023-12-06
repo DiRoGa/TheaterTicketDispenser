@@ -1,0 +1,14 @@
+Bienvenido al teatro Alfil:Bienvenido al teatro Alfil
+Selecciona el idioma:Selecciona el idioma
+Selecciona la fecha de representacion:Selecciona la fecha de representacion
+Selecciona la zona:Selecciona la zona
+Selecciona tus asientos:Selecciona tus asientos
+Asiento seleccionado:Asiento seleccionado
+Asiento ocupado, seleccione otro:Asiento ocupado, seleccione otro
+Realizando pago:Realizando pago
+Introduzca su tarjeta para continuar:Introduzca su tarjeta para continuar
+Gracias por su compra:Gracias por su compra
+Lo sentimos, no se pudo realizar la operacion:Lo sentimos, no se pudo realizar la operacion
+Se ha guardado la tarjeta al no ser extraida:Se ha guardado la tarjeta al no ser extraida
+Cancelar:Cancelar
+Aceptar:Aceptar

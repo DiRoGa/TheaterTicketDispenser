@@ -1,0 +1,14 @@
+Bienvenido al teatro Alfil:Welcome to the Alfil Theater
+Selecciona el idioma:Choose lenguage
+Selecciona la fecha de representacion:Choose play representation date
+Selecciona la zona:Choose area
+Selecciona tus asientos:Choose seats
+Asiento seleccionado:Seat selected
+Asiento ocupado, seleccione otro:Seat occupied, select another one
+Realizando pago:Processing payment
+Introduzca su tarjeta para continuar:Enter your credit card to continue
+Gracias por su compra:Thanks for your purchase
+Lo sentimos, no se pudo realizar la operacion:Sorry, we couldn't proceed with the transaction
+ErrorCard:Credit card saved
+Cancelar:Cancel
+Aceptar:Accept

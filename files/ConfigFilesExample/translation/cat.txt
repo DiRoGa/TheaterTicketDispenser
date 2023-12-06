@@ -1,0 +1,27 @@
+Bienvenido al teatro Alfil:Benvingut al teatre Alfil
+Selecciona el idioma:Selecciona l' idioma
+Selecciona la fecha de representacion:Selecciona la data de representacion
+Selecciona la zona:Selecciona la zona
+Selecciona tus asientos:Selecciona els teus seients
+Asiento seleccionado:Seient seleccionat
+Asiento ocupado, seleccione otro:Seient ocupat, en seleccioni un altre
+Realizando pago:Realitzant pagament
+Introduzca su tarjeta para continuar:Introdueixi la seva targeta per continuar
+Gracias por su compra:Gràcies per la seva compra
+Lo sentimos, no se pudo realizar la operacion:Ho sentim, no es va poder realitzar l'operació
+Se ha guardado la tarjeta al no ser extraida:S' ha guardat la targeta en no ser extreta
+Cancelar:Cancel·lar
+Aceptar:Acceptar
+
+
+
+
+
+
+
+
+
+
+
+
+
